@@ -24,14 +24,6 @@ This is a final year project for BSCSIT that helps connect students with persona
 - Flask / Django (Backend)
 - SQLite (Database)
 
-## Team
-- Anish Shrestha
-- Milan Gurung
-- Mukesh Jirel
-tack
-- React (Frontend)
-- Flask / Django (Backend)
-- SQLite (Database)
 
 ## Team
 - Anish Shrestha
